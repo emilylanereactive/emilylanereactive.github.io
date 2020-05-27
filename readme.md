@@ -15,7 +15,7 @@
 
 - Mid Level Developer: $60 / coding hours
 - Principal Developer: $110 / hour for livestreamed hours
-- Junior Developer Shadowing: free for you
+- Apprentice Developer Shadowing: free for you
 
 ### Mid level developer to assist your senior devs
 
