@@ -13,13 +13,13 @@
 
 ### Full Frontend Dev Team Package
 
-- Mid Level Developer: $60 / coding hours
-- Principal Developer: $110 / hour for livestreamed hours
+- Mid Level Developer: \$60 / coding hours
+- Principal Developer: \$110 / hour for livestreamed hours
 - Apprentice Developer Shadowing: free for you
 
 ### Mid level developer to assist your senior devs
 
-- Mid Level Developer: $60 / coding hours
+- Mid Level Developer: \$60 / coding hours
 
 ## Industry Leading Code Quality
 
