@@ -2,9 +2,10 @@
   "name": "consulting-website",
   "version": "1.0.0",
   "description": "mayu consulting",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "test-web"
+    "test": "test-web",
+    "build": "parcel build src/index.html -d  ./"
   },
   "repository": {
     "type": "git",
@@ -28,7 +29,20 @@
     "gh-pages": "^2.2.0",
     "parcel": "^1.12.4",
     "parcel-bundler": "^1.12.4",
+    "parcel-plugin-custom-dist-structure": "^1.1.12",
     "parcel-plugin-markdown-it": "^0.1.3",
     "typescript": "^3.9.3"
+  },
+  "customDistStructure": {
+    "config": {
+      "dist": [
+        ".js",
+        ".css",
+        ".jpg",
+        ".svg",
+        ".png",
+        ".map"
+      ]
+   }
   }
 }
