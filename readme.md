@@ -1,4 +1,4 @@
-# Mayu Consulting
+# Emily Lane Reactive Consulting
 
 ## React Web Consulting
 
