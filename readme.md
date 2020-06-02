@@ -1,13 +1,18 @@
+![](https://img.pngio.com/town-png-images-transparent-free-download-pngmartcom-town-png-2353_560.png)
 # Emily Lane Reactive Consulting
 
 ## React Web Consulting
 
 ## React Native Consulting
 
+<section>
+
 ## Radical Transparency
 
 - Mid level developer productivity reports via Wakatime.
 - Principal developer will provide livestream during working hours.
+
+</section>
 
 ## Clear Pricing
 
