@@ -7,7 +7,16 @@
 }
 body {
   font-family: "Montserrat", sans-serif;
+  -webkit-text-stroke: 0.1px #00008b;
   margin: 0;
+  background: linear-gradient(
+    to bottom,
+    #163c52 0%,
+    #4f4f47 15%,
+    #c5752d 30%,
+    #b7490f 40%,
+    #361d2e 60%
+  );
 }
 h1,
 h2,
@@ -73,7 +82,7 @@ section:nth-child(5) {
 }
 
 section:nth-child(6) {
-  background-color: 361d2e;
+  background-color: #361d2e;
   color: antiquewhite;
 }
 
