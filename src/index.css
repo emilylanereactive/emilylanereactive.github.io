@@ -1,12 +1,38 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;800&display=swap");
 
 * {
-  /* margin: 0;
-  padding: 0; */
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 body {
   font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body,
+section,
+ul,
+li {
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p {
+  /* max-width: 600px; */
+  /* margin: 0 auto; */
 }
 
 h1,
@@ -17,38 +43,71 @@ h5,
 h6 {
   text-align: center;
   display: flex;
-  height: 3vh;
   justify-content: center;
   align-items: center;
 }
 section {
-  padding-top: 1%;
-  /* margin: 5rem 0; */
+  padding: 1rem;
+  margin: 0;
   /* padding: 0rem; */
 }
 
+section:nth-child(2) {
+  background-color: #e1b07e;
+  color: antiquewhite;
+}
+
+section:nth-child(3) {
+  background-color: #e5be9e;
+  color: antiquewhite;
+}
+
+section:nth-child(4) {
+  background-color: #cbc0ad;
+  color: antiquewhite;
+}
+
+section:nth-child(5) {
+  background-color: #86a397;
+  color: antiquewhite;
+}
+
+section:nth-child(6) {
+  background-color: 361d2e;
+  color: antiquewhite;
+}
+
 h1 {
-  font-size: 18;
+  font-size: 17;
+  max-width: 100%;
 }
 
 h2 {
-  font-size: 16;
+  font-size: 15;
 }
 
-h2 ul {
-  padding-top: 10%;
+h2 {
+  /* padding-top: 1rem; */
 }
 h3 {
-  font-size: 14;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  font-size: 13;
 }
 
- {
-  padding-top: 10px;
+ul {
+  padding: 1rem;
 }
+@media only screen and (min-width: 500px) {
+  ul {
+    display: flex;
+  }
+  li {
+    padding: 1rem;
+  }
+}
+
 li {
-  font-size: 1em;
+  font-size: 12;
+  padding: 0.25rem;
 }
 
 img {
