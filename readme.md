@@ -41,7 +41,7 @@
 
 <section>
 
-## Industry Leading Code Quality
+### Industry Leading Code Quality
 
 - Rating the safety critical rating on your app.
 - It's not just about tests, it's about gauruntees.
