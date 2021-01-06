@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mayu/consulting-website#readme",
   "dependencies": {
     "antd": "^4.2.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "markdown-to-jsx": "^6.11.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
